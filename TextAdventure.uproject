@@ -15,6 +15,25 @@
 			"Name": "NarrativeCommonUI",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f1adaffd049b44cca254832b2beeb1b7"
+		},
+		{
+			"Name": "AdvancedRichText",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2aaef5a16088481d8c1275d3920c92f2"
+		},
+		{
+			"Name": "XiJson",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Android",
+				"IOS"
+			]
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
